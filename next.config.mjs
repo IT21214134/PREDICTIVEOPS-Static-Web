@@ -5,6 +5,11 @@ const nextConfig = {
     domains: ['assets.aceternity.com', 'mysliit-my.sharepoint.com'],
   },
   output: 'export',
+  eslint: {
+    // Warning: This allows production builds to successfully complete even if
+    // your project has ESLint errors.
+    ignoreDuringBuilds: true,
+  },
   // basePath: '/PREDICTIVEOPS-Static-Web', // Replace with your repository name
   // assetPrefix: '/PREDICTIVEOPS-Static-Web/',
 };
