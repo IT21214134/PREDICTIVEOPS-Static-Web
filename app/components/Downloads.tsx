@@ -77,6 +77,22 @@ const Downloads = () => {
                     </div>
                 </PinContainer>
                 <PinContainer
+                    title=" Status Documents III"
+                    href="https://drive.google.com/drive/folders/15jCjk_zRG-3e1ug8gavgz6IVLS4qZkop?usp=sharing"
+                >
+                    <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
+                        <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
+                            Checklist Documents III
+                        </h3>
+                        <div className="text-base !m-0 !p-0 font-normal">
+                            <span className="text-slate-500 ">
+                                Submitted on 2025
+                            </span>
+                        </div>
+                        <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" />
+                    </div>
+                </PinContainer>
+                <PinContainer
                     title="Research Paper"
                     href="https://drive.google.com/file/d/1vUtn9gJ7PyeJ5QOMMkaURgfWPouzcnpo/view?usp=sharing"
                 >

@@ -446,8 +446,8 @@ const ProjectScope = () => {
             },
             {
               src: "/PREDICTIVEOPS-Static-Web/nextjs.png",
-              alt: "React",
-              name: "React",
+              alt: "NextJS",
+              name: "NextJS",
             },
             {
               src: "/PREDICTIVEOPS-Static-Web/flask.jpg",
