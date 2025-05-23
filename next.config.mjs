@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  basePath: "/PREDICTIVEOPS-Static-Web",
   images: {
     domains: ['assets.aceternity.com', 'mysliit-my.sharepoint.com'],
   },
