@@ -25,27 +25,18 @@ jobs:
         uses: actions/configure-pages@v4
         with:
           static_site_generator: next
+
+      - name: Prepare Next.js config 🔧
+        run: |
+          echo "Removing conflicting config file..."
+          rm -f next.config.js
+          echo "Using next.config.mjs with correct export settings..."
+          cat next.config.mjs
       
       - name: Build with Next.js 🏗️
         run: npm run build
         env:
           NODE_ENV: production
-
-      - name: Debug - Check build output 🔍
-        run: |
-          echo "Current directory contents:"
-          ls -la
-          echo "Checking for out directory:"
-          if [ -d "./out" ]; then
-            echo "✅ out directory found!"
-            echo "Contents of ./out:"
-            ls -la ./out
-          else
-            echo "❌ out directory not found!"
-            echo "Looking for other possible output directories:"
-            find . -name "*build*" -type d 2>/dev/null || true
-            find . -name "*dist*" -type d 2>/dev/null || true
-          fi
       
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
