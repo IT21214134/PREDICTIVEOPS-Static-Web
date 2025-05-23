@@ -445,7 +445,7 @@ const ProjectScope = () => {
               name: "Python",
             },
             {
-              src: "/PREDICTIVEOPS-Static-Web/react.png",
+              src: "/PREDICTIVEOPS-Static-Web/nextjs.png",
               alt: "React",
               name: "React",
             },
@@ -455,19 +455,14 @@ const ProjectScope = () => {
               name: "Flask",
             },
             {
-              src: "/PREDICTIVEOPS-Static-Web/unity.png",
-              alt: "Unity",
-              name: "Unity",
-            },
-            {
               src: "/PREDICTIVEOPS-Static-Web/firebase.png",
               alt: "Firebase",
               name: "Firebase",
             },
             {
-              src: "/PREDICTIVEOPS-Static-Web/chatgpt.png",
-              alt: "ChatGPT",
-              name: "ChatGPT 3.5",
+              src: "/PREDICTIVEOPS-Static-Web/aws.png",
+              alt: "AWS",
+              name: "AWS",
             },
             {
               src: "/PREDICTIVEOPS-Static-Web/docker.png",
