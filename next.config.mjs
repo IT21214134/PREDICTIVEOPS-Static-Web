@@ -2,8 +2,10 @@
 const nextConfig = {
   output: 'export',
   basePath: "/PREDICTIVEOPS-Static-Web",
+  assetPrefix: "/PREDICTIVEOPS-Static-Web/",
   images: {
-    unoptimized: true
+    unoptimized: true,
+    domains: ['assets.aceternity.com', 'mysliit-my.sharepoint.com'],
   },
   eslint: {
     // Warning: This allows production builds to successfully complete even if
