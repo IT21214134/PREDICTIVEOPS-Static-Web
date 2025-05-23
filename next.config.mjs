@@ -2,6 +2,7 @@
 const nextConfig = {
   basePath: "/PREDICTIVEOPS-Static-Web",
   images: {
+    unoptimized: true,
     domains: ['assets.aceternity.com', 'mysliit-my.sharepoint.com'],
   },
   output: 'export',
