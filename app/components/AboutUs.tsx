@@ -1,5 +1,6 @@
 import React from "react";
 import { Card, CardTitle, CardDescription, CardFooter } from "./ui/AboutUsCard";
+import Image from "next/image";
 
 const AboutUs = () => {
     return (
@@ -10,7 +11,7 @@ const AboutUs = () => {
 
             <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 mt-10">
                 <Card>
-                    <img src="/PREDICTIVEOPS-Static-Web/HansiMiss.JPG" alt="Team Member" width="500" height="200" />
+                    <Image src="/PREDICTIVEOPS-Static-Web/HansiMiss.jpeg" alt="Team Member" width="500" height="200" />
                     <div className="p-4">
                         <CardTitle>Miss. Handi De Silva</CardTitle>
                         <CardDescription>
@@ -25,7 +26,7 @@ const AboutUs = () => {
                 </Card>
                 <Card>
 
-                    <img src="/PREDICTIVEOPS-Static-Web/MahimaSir.JPG" alt="Team Member" width="500" height="200" />
+                    <Image src="/PREDICTIVEOPS-Static-Web/MahimaSir.jpeg" alt="Team Member" width="500" height="200" />
                     <div className="p-4">
                         <CardTitle>Dr. Mahima Weerasinghe</CardTitle>
                         <CardDescription>
@@ -39,7 +40,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/PREDICTIVEOPS-Static-Web/Isuri.jpeg" alt="Team Member" width="500" height="200" />
+                    <Image src="/PREDICTIVEOPS-Static-Web/Isuri.jpeg" alt="Team Member" width="500" height="200" />
                     <div className="p-4">
                         <CardTitle>Yapa Y.A.I.D</CardTitle>
                         <CardDescription>
@@ -53,7 +54,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/PREDICTIVEOPS-Static-Web/Janani.jpg" alt="Team Member" width="500" height="200" />
+                    <Image src="/PREDICTIVEOPS-Static-Web/Janani.jpg" alt="Team Member" width="500" height="200" />
                     <div className="p-4">
                         <CardTitle>Gunawardana A.P.J.K.V</CardTitle>
                         <CardDescription>
@@ -67,7 +68,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/PREDICTIVEOPS-Static-Web/Hashan.jpg" alt="Team Member" width="500" height="200" />
+                    <Image src="/PREDICTIVEOPS-Static-Web/Hashan.jpg" alt="Team Member" width="500" height="200" />
                     <div className="p-4">
                         <CardTitle>Madhuwantha U.N.H</CardTitle>
                         <CardDescription>
@@ -81,7 +82,7 @@ const AboutUs = () => {
                     </div>
                 </Card>
                 <Card>
-                    <img src="/PREDICTIVEOPS-Static-Web/Saranga.jpg" alt="Team Member" width="500" height="200" />
+                    <Image src="/PREDICTIVEOPS-Static-Web/Saranga.jpg" alt="Team Member" width="500" height="200" />
                     <div className="p-4">
                         <CardTitle>Saranga G.K.G</CardTitle>
                         <CardDescription>

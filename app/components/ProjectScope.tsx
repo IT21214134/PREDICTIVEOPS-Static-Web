@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 const ProjectScope = () => {
   return (
@@ -78,7 +79,7 @@ const ProjectScope = () => {
 
           <div className="flex flex-row space-x-4">
             <div className="w-1/2">
-              <img
+              <Image
                 src="/ResearchGap.png"
                 alt="Comparison Between PredictiveOps and Existing Systems"
                 width={600}
