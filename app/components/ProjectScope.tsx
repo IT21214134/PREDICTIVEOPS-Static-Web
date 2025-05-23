@@ -374,7 +374,7 @@ const ProjectScope = () => {
               className="rounded-lg shadow-lg"
               priority
             /> */}
-            <Image src="/PREDICTIVEOPS-Static-Web/sysOverviewD.png" alt="Coconut Export Stats" width="700" height="500" />
+            <Image src="/PREDICTIVEOPS-Static-Web/sysOverviewD.jpg" alt="Coconut Export Stats" width="700" height="500" />
             <p className="text-sm text-gray-400 mt-4">
               Figure 2: System Overview Diagramn
             </p>
