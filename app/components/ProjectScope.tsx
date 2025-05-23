@@ -79,15 +79,15 @@ const ProjectScope = () => {
 
           <div className="flex flex-row space-x-4">
             <div className="w-1/2">
-              <Image
+              {/* <Image
                 src="/ResearchGap.png"
                 alt="Comparison Between PredictiveOps and Existing Systems"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-lg"
                 priority
-              />
-              {/* <Image src="/PREDICTIVEOPS-Static-Web/ResearchGap.png" alt="Coconut Export Stats" width="600" height="400" /> */}
+              /> */}
+              <Image src="/PREDICTIVEOPS-Static-Web/ResearchGap.png" alt="Coconut Export Stats" width="600" height="400" />
               <p className="text-sm text-gray-400 mt-2">
                 Figure 1: Comparison Between PredictiveOps and Existing Systems
               </p>
@@ -366,15 +366,15 @@ const ProjectScope = () => {
           transition={{ delay: 0.5, duration: 1 }}
         >
           <div className="col-span-1">
-            <Image
+            {/* <Image
               src="/sysOverviewD.png"
               alt="Methodology Flow"
               width={700}
               height={500}
               className="rounded-lg shadow-lg"
               priority
-            />
-            {/* <Image src="/PREDICTIVEOPS-Static-Web/sysOverviewD.png" alt="Coconut Export Stats" width="700" height="500" /> */}
+            /> */}
+            <Image src="/PREDICTIVEOPS-Static-Web/sysOverviewD.png" alt="Coconut Export Stats" width="700" height="500" />
             <p className="text-sm text-gray-400 mt-4">
               Figure 2: System Overview Diagramn
             </p>

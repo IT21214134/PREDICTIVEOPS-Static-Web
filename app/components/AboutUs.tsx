@@ -76,7 +76,7 @@ const AboutUs = () => {
                             <strong>Department:</strong> Information Technology
                         </CardDescription>
                         <CardFooter>
-                            <a href="#">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/hashan-madhuwantha/">LinkedIn</a>
                             <a href="mailto:it21168390@my.sliit.lk">E-Mail</a>
                         </CardFooter>
                     </div>
