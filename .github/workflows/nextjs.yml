@@ -31,6 +31,10 @@ jobs:
 
       - name: Build with Next.js 🏗️
         run: npx next build
+        env:
+          EXPORT: 1                    # 🔑 triggers static export
+          UNOPTIMIZED: 1               # disable Image optimization
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
