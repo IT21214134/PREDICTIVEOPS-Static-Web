@@ -19,7 +19,7 @@ const AboutUs = () => {
                             <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
-                            <a href="#">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/hansi-de-silva-03629b79/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                             <a href="mailto:hansi.d@sliit.lk">E-Mail</a>
                         </CardFooter>
                     </div>
@@ -34,7 +34,7 @@ const AboutUs = () => {
                             <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
-                            <a href="#">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/mahimaweerasinghe/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                             <a href="mailto:mahima.w@sliit.lk">E-Mail</a>
                         </CardFooter>
                     </div>
@@ -48,7 +48,7 @@ const AboutUs = () => {
                             <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
-                            <a href="https://www.linkedin.com/in/isuri-yapa-427571215/">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/isuri-yapa-427571215/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                             <a href="mailto:it21214134@my.sliit.lk">E-Mail</a>
                         </CardFooter>
                     </div>
@@ -76,7 +76,7 @@ const AboutUs = () => {
                             <strong>Department:</strong> Information Technology
                         </CardDescription>
                         <CardFooter>
-                            <a href="https://www.linkedin.com/in/hashan-madhuwantha/">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/hashan-madhuwantha/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                             <a href="mailto:it21168390@my.sliit.lk">E-Mail</a>
                         </CardFooter>
                     </div>
@@ -90,7 +90,7 @@ const AboutUs = () => {
                             <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
-                            <a href="#">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/saranga-gunasekara" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                             <a href="mailto:it21168222@my.sliit.lk">E-Mail</a>
                         </CardFooter>
                     </div>
