@@ -12,7 +12,7 @@ const PresentationSlides = () => {
             <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
     
                 <PinContainer
-                    title="Proposal"
+                    title="Project Proposal"
                     href="https://drive.google.com/drive/folders/16biPotxh1l6WHwqJn7RGMkxYD3fIvZi8?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">

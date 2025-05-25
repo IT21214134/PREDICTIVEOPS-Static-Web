@@ -11,7 +11,7 @@ const Downloads = () => {
 
             <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
                 <PinContainer
-                    title="Taf"
+                    title="Topic Assessment Form"
                     href="https://drive.google.com/file/d/1nEqcNDoCE5OISmMPUq_vUNWgHQmM4rgm/view?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
@@ -29,7 +29,7 @@ const Downloads = () => {
                 </PinContainer>
             
                 <PinContainer
-                    title="Prpposal"
+                    title="Project Proposal"
                     href="https://drive.google.com/drive/folders/1bqAvtlC_ZQE7fTo44CtBKm_zyXeTZ9VU?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
@@ -45,7 +45,7 @@ const Downloads = () => {
                     </div>
                 </PinContainer>
                 <PinContainer
-                    title="Status Documents I"
+                    title="Checklist Documents I"
                     href="https://drive.google.com/file/d/1pDNo2d7MN2kGi8-7lbwqsn3beb68Yb9t/view?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
@@ -61,7 +61,7 @@ const Downloads = () => {
                     </div>
                 </PinContainer>
                 <PinContainer
-                    title=" Status Documents II"
+                    title="Checklist Documents II"
                     href="https://drive.google.com/drive/folders/15jCjk_zRG-3e1ug8gavgz6IVLS4qZkop?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
@@ -77,7 +77,7 @@ const Downloads = () => {
                     </div>
                 </PinContainer>
                 <PinContainer
-                    title=" Status Documents III"
+                    title="Checklist Documents III"
                     href="https://drive.google.com/drive/folders/16J_BUGZpi2V2ulJS4FXmU1r1o_yY9CfQ?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
