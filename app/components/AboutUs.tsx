@@ -62,7 +62,7 @@ const AboutUs = () => {
                             <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
-                            <a href="#">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/janani-vas/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                             <a href="mailto:it21212604@my.sliit.lk">E-Mail</a>
                         </CardFooter>
                     </div>
