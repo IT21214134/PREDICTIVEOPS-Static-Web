@@ -30,7 +30,7 @@ const Downloads = () => {
             
                 <PinContainer
                     title="Prpposal"
-                    href="https://drive.google.com/drive/folders/1ZAQ2S5oNK4Hc4hZ1C0GrFTDq_hmYxjPe?usp=sharing"
+                    href="https://drive.google.com/drive/folders/1bqAvtlC_ZQE7fTo44CtBKm_zyXeTZ9VU?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
                         <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">

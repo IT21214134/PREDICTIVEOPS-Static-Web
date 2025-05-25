@@ -85,7 +85,7 @@ const Milestone = () => {
                         Progress Presentation II
                     </h2>
                     <p className="text-2xl text-neutral-600 dark:text-neutral-400 mb-2">
-                        Progress Presentation II evaluates the project&apos;ss overall readiness and completeness, ensuring alignment with goals.
+                        Progress Presentation II evaluates the project&apos;s overall readiness and completeness, ensuring alignment with goals.
                     </p>
                     <br></br>
                     <p className="text-xs font-bold">Marks Allocated: 18</p>
@@ -121,7 +121,7 @@ const Milestone = () => {
                         Final Presentation & Viva
                     </h2>
                     <p className="text-2xl text-neutral-600 dark:text-neutral-400 mb-2">
-                        Viva is held individually to assess each member&apos;ss contribution to the project.
+                        Viva is held individually to assess each member&apos;s contribution to the project.
                     </p>
                     <br></br>
                     <p className="text-sm font-bold">Marks Allocated: 20</p>
@@ -157,7 +157,7 @@ const Milestone = () => {
                         Logbook
                     </h2>
                     <p className="text-2xl text-neutral-600 dark:text-neutral-400 mb-2">
-                        Status of the project is validated through the Logbook. This also includes, Status documents 1 & 2.
+                        Status of the project is validated through the Logbook. This also includes, Check List documents 1, 2 & 3.
                     </p>
                     <br></br>
                     <p className="text-xs font-bold">Marks Allocated: 3</p>
