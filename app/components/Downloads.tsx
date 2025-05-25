@@ -78,7 +78,7 @@ const Downloads = () => {
                 </PinContainer>
                 <PinContainer
                     title=" Status Documents III"
-                    href="https://drive.google.com/drive/folders/15jCjk_zRG-3e1ug8gavgz6IVLS4qZkop?usp=sharing"
+                    href="https://drive.google.com/drive/folders/16J_BUGZpi2V2ulJS4FXmU1r1o_yY9CfQ?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
                         <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
@@ -124,7 +124,7 @@ const Downloads = () => {
                         <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" />
                     </div>
                 </PinContainer>
-                <PinContainer
+                {/* <PinContainer
                     title="Poster"
                     href="#"
                 >
@@ -139,7 +139,7 @@ const Downloads = () => {
                         </div>
                         <div className="flex flex-1 w-full rounded-lg mt-4 bg-gradient-to-br from-violet-500 via-purple-500 to-blue-500" />
                     </div>
-                </PinContainer>
+                </PinContainer> */}
             </div>
         </div>
     )
