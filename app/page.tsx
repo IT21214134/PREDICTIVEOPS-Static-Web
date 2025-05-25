@@ -1,6 +1,7 @@
 import AboutUs from "./components/AboutUs";
 import ContactUs from "./components/ContactUs";
 import Downloads from "./components/Downloads";
+import PresentationSlides from "./components/PresentationSlides";
 import Hero from "./components/Hero";
 import Milestone from "./components/Milestone";
 import ProjectScope from "./components/ProjectScope";
@@ -16,6 +17,7 @@ export default function Home() {
                 <ProjectScope />
                 <Milestone />
                 <Downloads />
+                <PresentationSlides />
                 <AboutUs />
                 <ContactUs />
             </div>
