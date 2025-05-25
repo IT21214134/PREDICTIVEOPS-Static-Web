@@ -61,7 +61,7 @@ const PresentationSlides = () => {
                 </PinContainer>
                 <PinContainer
                     title="Final Presentation"
-                    href="#"
+                    href="https://drive.google.com/drive/folders/1Y0FkjSalOcxRSAz1Qf4m10gdaMvimlM4?usp=sharing"
                 >
                     <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
                         <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
