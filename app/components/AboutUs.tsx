@@ -73,7 +73,7 @@ const AboutUs = () => {
                         <CardTitle>Madhuwantha U.N.H</CardTitle>
                         <CardDescription>
                             Sri Lanka Institute of Information Technology <br />
-                            <strong>Department:</strong> Information Technology
+                            <strong>Department:</strong> Software Engineering
                         </CardDescription>
                         <CardFooter>
                             <a href="https://www.linkedin.com/in/hashan-madhuwantha/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
